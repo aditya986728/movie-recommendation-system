@@ -1,0 +1,26 @@
+movieId,title,genres
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+2,Jumanji (1995),Adventure|Children|Fantasy
+3,Grumpier Old Men (1995),Comedy|Romance
+4,Waiting to Exhale (1995),Comedy|Drama
+5,Father of the Bride Part II (1995),Comedy
+6,Inception (2010),Action|Sci-Fi|Thriller
+7,Interstellar (2014),Adventure|Drama|Sci-Fi
+8,The Dark Knight (2008),Action|Crime|Drama
+9,The Shawshank Redemption (1994),Drama
+10,The Godfather (1972),Crime|Drama
+11,The Matrix (1999),Action|Sci-Fi
+12,The Social Network (2010),Drama
+13,Avengers: Endgame (2019),Action|Adventure|Sci-Fi
+14,Parasite (2019),Thriller|Drama
+15,Joker (2019),Crime|Drama|Thriller
+16,Gladiator (2000),Action|Adventure|Drama
+17,Titanic (1997),Drama|Romance
+18,The Wolf of Wall Street (2013),Comedy|Crime|Drama
+19,The Prestige (2006),Drama|Mystery|Sci-Fi
+20,Deadpool (2016),Action|Comedy
+21,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi
+22,La La Land (2016),Drama|Music|Romance
+23,Spider-Man: No Way Home (2021),Action|Adventure|Sci-Fi
+24,Dune (2021),Adventure|Drama|Sci-Fi
+25,Avatar (2009),Action|Adventure|Fantasy
